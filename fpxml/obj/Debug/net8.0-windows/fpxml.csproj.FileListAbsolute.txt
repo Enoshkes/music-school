@@ -1,0 +1,14 @@
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\bin\Debug\net8.0-windows\fpxml.exe
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\bin\Debug\net8.0-windows\fpxml.deps.json
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\bin\Debug\net8.0-windows\fpxml.runtimeconfig.json
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\bin\Debug\net8.0-windows\fpxml.dll
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\bin\Debug\net8.0-windows\fpxml.pdb
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\obj\Debug\net8.0-windows\fpxml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\obj\Debug\net8.0-windows\fpxml.AssemblyInfoInputs.cache
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\obj\Debug\net8.0-windows\fpxml.AssemblyInfo.cs
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\obj\Debug\net8.0-windows\fpxml.csproj.CoreCompileInputs.cache
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\obj\Debug\net8.0-windows\fpxml.dll
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\obj\Debug\net8.0-windows\refint\fpxml.dll
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\obj\Debug\net8.0-windows\fpxml.pdb
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\obj\Debug\net8.0-windows\fpxml.genruntimeconfig.cache
+C:\Users\enosh.tsur\source\repos\fpxml\fpxml\obj\Debug\net8.0-windows\ref\fpxml.dll

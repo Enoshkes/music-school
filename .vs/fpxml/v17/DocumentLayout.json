@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|c:\\users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\service\\fpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|solutionrelative:fpxml\\service\\fpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|c:\\users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|solutionrelative:fpxml\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|c:\\users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|solutionrelative:fpxml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|c:\\users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|solutionrelative:fpxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|c:\\users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|solutionrelative:fpxml\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|c:\\users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\model\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|solutionrelative:fpxml\\model\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|c:\\users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\configuration\\musicschoolconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|solutionrelative:fpxml\\configuration\\musicschoolconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|c:\\users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}|fpxml\\fpxml.csproj|solutionrelative:fpxml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FPService.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Service\\FPService.cs",
+              "RelativeDocumentMoniker": "fpxml\\Service\\FPService.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Service\\FPService.cs",
+              "RelativeToolTip": "fpxml\\Service\\FPService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:08:02.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Instrument.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Model\\Instrument.cs",
+              "RelativeDocumentMoniker": "fpxml\\Model\\Instrument.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Model\\Instrument.cs",
+              "RelativeToolTip": "fpxml\\Model\\Instrument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:03:03.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "fpxml\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Model\\Student.cs",
+              "RelativeToolTip": "fpxml\\Model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:02:27.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Form1.cs",
+              "RelativeDocumentMoniker": "fpxml\\Form1.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Form1.cs",
+              "RelativeToolTip": "fpxml\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:45:07.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicSchoolService.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Service\\MusicSchoolService.cs",
+              "RelativeDocumentMoniker": "fpxml\\Service\\MusicSchoolService.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Service\\MusicSchoolService.cs",
+              "RelativeToolTip": "fpxml\\Service\\MusicSchoolService.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwE8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:30:09.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicSchoolConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Configuration\\MusicSchoolConfiguration.cs",
+              "RelativeDocumentMoniker": "fpxml\\Configuration\\MusicSchoolConfiguration.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Configuration\\MusicSchoolConfiguration.cs",
+              "RelativeToolTip": "fpxml\\Configuration\\MusicSchoolConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:26:07.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Program.cs",
+              "RelativeDocumentMoniker": "fpxml\\Program.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Program.cs",
+              "RelativeToolTip": "fpxml\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T05:07:30.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Form1.cs",
+              "RelativeDocumentMoniker": "fpxml\\Form1.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\Form1.cs [Design]",
+              "RelativeToolTip": "fpxml\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T05:07:27.065Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
