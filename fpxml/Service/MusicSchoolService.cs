@@ -11,10 +11,6 @@ namespace fpxml.Service
 {
     internal static class MusicSchoolService
     {
-
-	public static void Enosh() 
-	{
-	}
 	    
         public static void CreateXMLIfNotExists()
         {
